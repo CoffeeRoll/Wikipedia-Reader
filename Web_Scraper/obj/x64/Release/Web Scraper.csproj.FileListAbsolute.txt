@@ -1,0 +1,13 @@
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\bin\x64\Release\Web_Scraper.exe.config
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\bin\x64\Release\Web_Scraper.exe
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\bin\x64\Release\Web_Scraper.pdb
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\bin\x64\Release\HtmlAgilityPack.dll
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\bin\x64\Release\HtmlAgilityPack.pdb
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\bin\x64\Release\HtmlAgilityPack.xml
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\obj\x64\Release\Web_Scraper.Form1.resources
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\obj\x64\Release\Web_Scraper.Properties.Resources.resources
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\obj\x64\Release\Web Scraper.csproj.GenerateResource.Cache
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\obj\x64\Release\Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\obj\x64\Release\Web_Scraper.exe
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\obj\x64\Release\Web_Scraper.pdb
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\Web_Scraper\Web_Scraper\obj\x64\Release\Web Scraper.csprojResolveAssemblyReference.cache

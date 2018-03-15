@@ -1,0 +1,13 @@
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\bin\Debug\HTML Parser.exe.config
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\bin\Debug\HTML Parser.exe
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\bin\Debug\HTML Parser.pdb
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\obj\Debug\Web Scraper.csprojResolveAssemblyReference.cache
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\obj\Debug\Web_Scraper.Form1.resources
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\obj\Debug\HTML_Parser.Properties.Resources.resources
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\obj\Debug\Web Scraper.csproj.GenerateResource.Cache
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\obj\Debug\Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\obj\Debug\HTML Parser.exe
+C:\Users\Maltodextrin\Documents\Visual Studio 2017\Projects\HTML Parser\HTML Parser\obj\Debug\HTML Parser.pdb
